@@ -1,0 +1,32 @@
+
+// Fonts
+$epilogue: 'Epilogue', sans-serif;
+
+// Font Size
+$font-size-h1: 40px;
+$font-size-h2: 28px;
+$font-size-h3: 20px;
+$font-size-p: 18px;
+
+// Font Weight
+$semi-bold: 600;
+$bold: 700;
+
+// Colors
+$white: hsl(0, 0%, 98%);
+$gray: hsl(0, 0%, 41%);
+$black: hsl(0, 0%, 8%);
+$colors: $white, $gray, $black;
+
+// Padding and Margin
+$xs: 5px;
+$sm: 10px;
+$md: 15px;
+$lg: 20px;
+$xlg: 35px;
+
+// Transition
+$transition: all .2s ease-in;
+
+// Box Shadow
+$box-shadow: 0 10px 25px 0 rgba(0,0,0,.3);
